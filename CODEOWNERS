@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @thememeprog
+/src/backend/database.py      @thememeprog
+/src/backend/routers/auth.py  @thememeprog
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @thememeprog
